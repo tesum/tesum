@@ -1,4 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/demilan)](https://github.com/JaeSeoKim/badge42)
+
 
   <a href="https://github.com/tesum">
     <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" width="10%">
