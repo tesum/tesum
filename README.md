@@ -5,7 +5,7 @@ I'm a mobile software developer for Apple devices
 ### Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-000?&logo=apple&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-000?&logo=apple&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=red)
 ![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=ffdd54)
