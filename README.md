@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/tesum/tesum/main/2024-03-13_19-32-00_2.gif)](https://www.adamalston.com/)
+
 # Hi, I'm Arseny
 
 I'm a mobile software developer for Apple devices
