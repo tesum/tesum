@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/tesum/tesum/main/2024-03-13_19-32-00_2.gif)](https://www.adamalston.com/)
+![](https://raw.githubusercontent.com/tesum/tesum/main/2024-03-13_19-32-00_2.gif)
 
 # Hi, I'm Arseny
 
